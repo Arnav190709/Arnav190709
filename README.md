@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Kotlin
 - 🌱 I’m currently a 7th grader in India
 - 💞️ I’m looking to collaborate on ML and AI projects
-- 📫 How to reach me: psbs0760@presidency.edu.in
+- 📫 How to reach me: arnav.tanguturi@gmail.com
 
 <!---
 Arnav190709/Arnav190709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
