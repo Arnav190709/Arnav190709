@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arnav190709
-- 👀 I’m interested in Python and Kotlin
+- 👀 I’m interested in Python and Tensorflow
 - 🌱 I’m currently a 7th grader in India
-- 💞️ I’m looking to collaborate on ML and AI projects
+- 💞️ I’m looking to collaborate on anything codebased!
 - 📫 How to reach me: arnav.tanguturi@gmail.com
 
 <!---
