@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arnav190709
-- 👀 I’m interested in Python and Tensorflow
+- 👀 I’m interested in WebDev and React Native(Intermediateish)
 - 🌱 I’m currently a 7th grader in India
-- 💞️ I’m looking to collaborate on anything codebased!
+- 💞️ I’m looking to collaborate on anything thats related on WebDev
 - 📫 How to reach me: arnav.tanguturi@gmail.com
 
 <!---
