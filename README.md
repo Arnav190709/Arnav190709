@@ -3,6 +3,7 @@
 - 🌱 I’m currently a 7th grader in India
 - 💞️ I’m looking to collaborate on anything thats related on WebDev
 - 📫 How to reach me: arnav.tanguturi@gmail.com
+- 👓 Check out my personal website [here!] (https://arnavtanguturi.surge.sh)
 
 <!---
 Arnav190709/Arnav190709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
